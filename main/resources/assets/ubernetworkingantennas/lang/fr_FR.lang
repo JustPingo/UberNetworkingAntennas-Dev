@@ -1,0 +1,16 @@
+tile.AntennaController.name=Contrôleur d'Antenne
+tile.SatelliteController.name=Contrôleur de Satellite
+tile.SatelliteCore.name=Cœur de Satellite
+tile.SatelliteBridgeUpgrade.name=Amélioration de Transmission
+tile.AntennaFrame.name=Châssis d'Antenne
+tile.AntennaSupport.name=Support d'Antenne
+tile.AntennaTransmitter.name=Transmetteur
+tile.SatelliteBattery.name=Batterie de Satellite
+tile.SatelliteSolarstormsCapacitor.name=Accumulateur de Tempêtes Solaires
+
+tile.AntennaControler.name=Contrôleur d'Antenne
+tile.SatelliteControler.name=Contrôleur de Satellite
+
+item.SatelliteIdentifier.name=Identifieur de Satellite
+
+itemGroup.UberNetworkingAntennas=Über Networking Antennas

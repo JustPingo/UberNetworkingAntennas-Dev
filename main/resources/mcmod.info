@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ubernetworkingantennas",
+  "name": "Über Networking Antennas",
+  "description": "World Wide Wireless with Satellites",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JustPingo"],
+  "credits": "Thanks to the Team IA for ideas, TheOriginalBit for help with ComputerCraft implementation and Thran for help with license.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

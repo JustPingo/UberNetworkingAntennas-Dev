@@ -1,0 +1,16 @@
+tile.AntennaController.name=Antenna Controller
+tile.SatelliteController.name=Satellite Controller
+tile.SatelliteCore.name=Satellite Core
+tile.SatelliteBridgeUpgrade.name=Satellite Bridge Upgrade
+tile.AntennaFrame.name=Antenna Frame
+tile.AntennaSupport.name=Antenna Support
+tile.AntennaTransmitter.name=Antenna Transmitter
+tile.SatelliteBattery.name=Satellite Battery
+tile.SatelliteSolarstormsCapacitor.name=Satellite Solar Storms Capacitor
+
+tile.AntennaControler.name=Antenna Controler
+tile.SatelliteControler.name=Satellite Controler
+
+item.SatelliteIdentifier.name=Satellite Identifier
+
+itemGroup.UberNetworkingAntennas=Uber Networking Antennas
